@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1010,
+      "category": "education",
+      "title": "STEM Workshop for Kids",
+      "description": "Interactive science and technology activities for children.",
+      "location": "Bright Minds Center",
+      "date": "September 10, 2022",
+      "time": "09:30",
+      "organizer": "Dr. Ada Byte"
+    },
+    {
+      "id": 1111,
+      "category": "arts",
+      "title": "Local Art Fair",
+      "description": "Browse and buy art from local artists and makers.",
+      "location": "Gallery Lane",
+      "date": "October 5, 2022",
+      "time": "14:00",
+      "organizer": "Imogen Hue"
+    },
+    {
+      "id": 1212,
+      "category": "wellness",
+      "title": "Sunset Yoga",
+      "description": "Unwind and relax with guided yoga as the sun sets.",
+      "location": "Oceanview Park",
+      "date": "August 3, 2022",
+      "time": "18:00",
+      "organizer": "Zen Dee"
     }
   ]
 }
